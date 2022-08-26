@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/interfaces/employee.interface.ts"],"sourcesContent":["export interface Employee {\n  _id: string;\n  firstName: string;\n  lastName: string;\n  email: string;\n  number: string;\n  gender: string;\n  id: string;\n  photo: string;\n}\n"],"names":[],"mappings":"AAAA"}

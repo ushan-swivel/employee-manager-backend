@@ -1,0 +1,460 @@
+2022-08-22 10:33:56 info: =================================
+2022-08-22 10:33:56 info: ======= ENV: development =======
+2022-08-22 10:33:56 info: 🚀 App listening on the port 5001
+2022-08-22 10:33:56 info: =================================
+2022-08-22 10:44:43 info: =================================
+2022-08-22 10:44:43 info: ======= ENV: development =======
+2022-08-22 10:44:43 info: 🚀 App listening on the port 5001
+2022-08-22 10:44:43 info: =================================
+2022-08-22 10:54:32 info: =================================
+2022-08-22 10:54:32 info: ======= ENV: development =======
+2022-08-22 10:54:32 info: 🚀 App listening on the port 5001
+2022-08-22 10:54:32 info: =================================
+2022-08-22 10:55:58 info: =================================
+2022-08-22 10:55:58 info: ======= ENV: development =======
+2022-08-22 10:55:58 info: 🚀 App listening on the port 5001
+2022-08-22 10:55:58 info: =================================
+2022-08-22 11:01:29 info: =================================
+2022-08-22 11:01:29 info: ======= ENV: development =======
+2022-08-22 11:01:29 info: 🚀 App listening on the port 5001
+2022-08-22 11:01:29 info: =================================
+2022-08-22 11:02:03 error: MongoDb Error
+2022-08-22 11:02:32 info: Connecting to Database..
+2022-08-22 11:02:32 info: =================================
+2022-08-22 11:02:32 info: ======= ENV: development =======
+2022-08-22 11:02:32 info: 🚀 App listening on the port 5001
+2022-08-22 11:02:32 info: =================================
+2022-08-22 11:03:05 error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2022-08-22 11:05:31 info: Connecting to Database..
+2022-08-22 11:05:57 info: Connecting to Database..
+2022-08-22 11:05:57 info: =================================
+2022-08-22 11:05:57 info: ======= ENV: development =======
+2022-08-22 11:05:57 info: 🚀 App listening on the port 5001
+2022-08-22 11:05:57 info: =================================
+2022-08-22 11:06:25 info: Connecting to Database..
+2022-08-22 11:06:25 info: =================================
+2022-08-22 11:06:25 info: ======= ENV: development =======
+2022-08-22 11:06:25 info: 🚀 App listening on the port 5001
+2022-08-22 11:06:25 info: =================================
+2022-08-22 11:06:55 error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2022-08-22 11:07:39 info: Connecting to Database..
+2022-08-22 11:07:39 info: =================================
+2022-08-22 11:07:39 info: ======= ENV: development =======
+2022-08-22 11:07:39 info: 🚀 App listening on the port 5001
+2022-08-22 11:07:39 info: =================================
+2022-08-22 11:08:13 error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2022-08-22 11:09:04 info: Connecting to Database..
+2022-08-22 11:09:04 info: =================================
+2022-08-22 11:09:04 info: ======= ENV: development =======
+2022-08-22 11:09:04 info: 🚀 App listening on the port 5001
+2022-08-22 11:09:04 info: =================================
+2022-08-22 11:09:37 error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2022-08-22 11:42:10 info: Connecting to Database..
+2022-08-22 11:42:10 info: =================================
+2022-08-22 11:42:10 info: ======= ENV: development =======
+2022-08-22 11:42:10 info: 🚀 App listening on the port 5001
+2022-08-22 11:42:10 info: =================================
+2022-08-22 11:42:11 info: MongoDb Connected
+2022-08-22 12:11:15 info: Connecting to Database..
+2022-08-22 12:11:15 info: =================================
+2022-08-22 12:11:15 info: ======= ENV: development =======
+2022-08-22 12:11:15 info: 🚀 App listening on the port 5001
+2022-08-22 12:11:15 info: =================================
+2022-08-22 12:11:16 info: MongoDb Connected
+2022-08-22 12:12:23 info: Connecting to Database..
+2022-08-22 12:12:23 info: =================================
+2022-08-22 12:12:23 info: ======= ENV: development =======
+2022-08-22 12:12:23 info: 🚀 App listening on the port 5001
+2022-08-22 12:12:23 info: =================================
+2022-08-22 12:12:24 info: MongoDb Connected
+2022-08-22 12:15:13 info: Connecting to Database..
+2022-08-22 12:15:14 info: =================================
+2022-08-22 12:15:14 info: ======= ENV: development =======
+2022-08-22 12:15:14 info: 🚀 App listening on the port 5001
+2022-08-22 12:15:14 info: =================================
+2022-08-22 12:15:15 info: MongoDb Connected
+2022-08-22 12:16:06 info: Connecting to Database..
+2022-08-22 12:16:06 info: =================================
+2022-08-22 12:16:06 info: ======= ENV: development =======
+2022-08-22 12:16:06 info: 🚀 App listening on the port 5001
+2022-08-22 12:16:06 info: =================================
+2022-08-22 12:16:08 info: MongoDb Connected
+2022-08-22 12:18:53 info: Connecting to Database..
+2022-08-22 12:18:53 info: =================================
+2022-08-22 12:18:53 info: ======= ENV: development =======
+2022-08-22 12:18:53 info: 🚀 App listening on the port 5001
+2022-08-22 12:18:53 info: =================================
+2022-08-22 12:18:54 info: MongoDb Connected
+2022-08-22 12:21:54 info: Connecting to Database..
+2022-08-22 12:21:54 info: =================================
+2022-08-22 12:21:54 info: ======= ENV: development =======
+2022-08-22 12:21:54 info: 🚀 App listening on the port 5001
+2022-08-22 12:21:54 info: =================================
+2022-08-22 12:21:56 info: MongoDb Connected
+2022-08-22 12:22:08 info: Connecting to Database..
+2022-08-22 12:22:08 info: =================================
+2022-08-22 12:22:08 info: ======= ENV: development =======
+2022-08-22 12:22:08 info: 🚀 App listening on the port 5001
+2022-08-22 12:22:08 info: =================================
+2022-08-22 12:22:09 info: MongoDb Connected
+2022-08-22 12:23:34 info: Connecting to Database..
+2022-08-22 12:23:34 info: =================================
+2022-08-22 12:23:34 info: ======= ENV: development =======
+2022-08-22 12:23:34 info: 🚀 App listening on the port 5001
+2022-08-22 12:23:34 info: =================================
+2022-08-22 12:23:36 info: MongoDb Connected
+2022-08-22 12:23:41 info: Connecting to Database..
+2022-08-22 12:23:41 info: =================================
+2022-08-22 12:23:41 info: ======= ENV: development =======
+2022-08-22 12:23:41 info: 🚀 App listening on the port 5001
+2022-08-22 12:23:41 info: =================================
+2022-08-22 12:23:42 info: MongoDb Connected
+2022-08-22 12:23:51 info: Connecting to Database..
+2022-08-22 12:23:51 info: =================================
+2022-08-22 12:23:51 info: ======= ENV: development =======
+2022-08-22 12:23:51 info: 🚀 App listening on the port 5001
+2022-08-22 12:23:51 info: =================================
+2022-08-22 12:23:52 info: MongoDb Connected
+2022-08-22 12:29:10 info: Connecting to Database..
+2022-08-22 12:29:10 info: =================================
+2022-08-22 12:29:10 info: ======= ENV: development =======
+2022-08-22 12:29:10 info: 🚀 App listening on the port 5001
+2022-08-22 12:29:10 info: =================================
+2022-08-22 12:29:13 info: MongoDb Connected
+2022-08-22 12:29:33 info: Connecting to Database..
+2022-08-22 12:29:33 info: =================================
+2022-08-22 12:29:33 info: ======= ENV: development =======
+2022-08-22 12:29:33 info: 🚀 App listening on the port 5001
+2022-08-22 12:29:33 info: =================================
+2022-08-22 12:29:34 info: MongoDb Connected
+2022-08-22 12:29:45 info: Connecting to Database..
+2022-08-22 12:29:45 info: =================================
+2022-08-22 12:29:45 info: ======= ENV: development =======
+2022-08-22 12:29:45 info: 🚀 App listening on the port 5001
+2022-08-22 12:29:45 info: =================================
+2022-08-22 12:29:46 info: MongoDb Connected
+2022-08-22 12:32:24 info: Connecting to Database..
+2022-08-22 12:32:24 info: =================================
+2022-08-22 12:32:24 info: ======= ENV: development =======
+2022-08-22 12:32:24 info: 🚀 App listening on the port 5001
+2022-08-22 12:32:24 info: =================================
+2022-08-22 12:32:26 info: MongoDb Connected
+2022-08-22 12:33:39 info: Connecting to Database..
+2022-08-22 12:33:39 info: =================================
+2022-08-22 12:33:39 info: ======= ENV: development =======
+2022-08-22 12:33:39 info: 🚀 App listening on the port 5001
+2022-08-22 12:33:39 info: =================================
+2022-08-22 12:33:40 info: MongoDb Connected
+2022-08-22 12:34:45 info: Connecting to Database..
+2022-08-22 12:34:45 info: =================================
+2022-08-22 12:34:45 info: ======= ENV: development =======
+2022-08-22 12:34:45 info: 🚀 App listening on the port 5001
+2022-08-22 12:34:45 info: =================================
+2022-08-22 12:35:12 info: Connecting to Database..
+2022-08-22 12:35:12 info: =================================
+2022-08-22 12:35:12 info: ======= ENV: development =======
+2022-08-22 12:35:12 info: 🚀 App listening on the port 5001
+2022-08-22 12:35:12 info: =================================
+2022-08-22 12:36:14 info: MongoDb Connected
+2022-08-22 12:41:22 info: [0mGET / [32m200[0m 6.984 ms - 2[0m
+2022-08-22 12:41:22 info: [0mGET /favicon.ico [33m404[0m 1.616 ms - 150[0m
+2022-08-22 12:41:31 info: [0mGET /employee [33m404[0m 2.385 ms - 147[0m
+2022-08-22 12:41:41 info: [0mGET /api/employee [33m404[0m 2.073 ms - 151[0m
+2022-08-22 12:41:44 info: [0mGET /api/employee [33m404[0m 1.482 ms - 151[0m
+2022-08-22 12:41:51 info: [0mGET /api/employees [33m404[0m 2.431 ms - 152[0m
+2022-08-22 12:42:00 info: [0mGET /api/employees [33m404[0m 0.916 ms - 152[0m
+2022-08-22 12:47:04 info: Connecting to Database..
+2022-08-22 12:47:04 info: =================================
+2022-08-22 12:47:04 info: ======= ENV: development =======
+2022-08-22 12:47:04 info: 🚀 App listening on the port 5001
+2022-08-22 12:47:04 info: =================================
+2022-08-22 12:47:06 info: MongoDb Connected
+2022-08-22 12:48:43 info: Connecting to Database..
+2022-08-22 12:48:43 info: =================================
+2022-08-22 12:48:43 info: ======= ENV: development =======
+2022-08-22 12:48:43 info: 🚀 App listening on the port 5001
+2022-08-22 12:48:43 info: =================================
+2022-08-22 12:48:45 info: MongoDb Connected
+2022-08-22 12:52:24 info: [0mGET /api/employee [33m404[0m 8.625 ms - 7[0m
+2022-08-22 12:52:39 info: Connecting to Database..
+2022-08-22 12:52:39 info: =================================
+2022-08-22 12:52:39 info: ======= ENV: development =======
+2022-08-22 12:52:39 info: 🚀 App listening on the port 5001
+2022-08-22 12:52:39 info: =================================
+2022-08-22 12:52:42 info: MongoDb Connected
+2022-08-22 12:52:42 info: [0mGET /api/employee [33m404[0m 7.588 ms - 151[0m
+2022-08-22 12:52:52 info: Connecting to Database..
+2022-08-22 12:52:52 info: =================================
+2022-08-22 12:52:52 info: ======= ENV: development =======
+2022-08-22 12:52:52 info: 🚀 App listening on the port 5001
+2022-08-22 12:52:52 info: =================================
+2022-08-22 12:52:53 info: MongoDb Connected
+2022-08-22 12:54:08 info: Connecting to Database..
+2022-08-22 12:54:08 info: =================================
+2022-08-22 12:54:08 info: ======= ENV: development =======
+2022-08-22 12:54:08 info: 🚀 App listening on the port 5001
+2022-08-22 12:54:08 info: =================================
+2022-08-22 12:54:10 info: MongoDb Connected
+2022-08-22 12:54:36 info: [0mGET /api/employee [32m200[0m 197.854 ms - 31[0m
+2022-08-22 13:49:29 info: Connecting to Database..
+2022-08-22 13:49:29 info: =================================
+2022-08-22 13:49:29 info: ======= ENV: development =======
+2022-08-22 13:49:29 info: 🚀 App listening on the port 5001
+2022-08-22 13:49:29 info: =================================
+2022-08-22 13:49:31 info: MongoDb Connected
+2022-08-22 13:49:41 info: Connecting to Database..
+2022-08-22 13:49:41 info: =================================
+2022-08-22 13:49:41 info: ======= ENV: development =======
+2022-08-22 13:49:41 info: 🚀 App listening on the port 5001
+2022-08-22 13:49:41 info: =================================
+2022-08-22 13:49:43 info: MongoDb Connected
+2022-08-22 13:50:11 info: Connecting to Database..
+2022-08-22 13:50:11 info: =================================
+2022-08-22 13:50:11 info: ======= ENV: development =======
+2022-08-22 13:50:11 info: 🚀 App listening on the port 5001
+2022-08-22 13:50:11 info: =================================
+2022-08-22 13:50:12 info: MongoDb Connected
+2022-08-22 14:05:34 info: Connecting to Database..
+2022-08-22 14:05:34 info: =================================
+2022-08-22 14:05:34 info: ======= ENV: development =======
+2022-08-22 14:05:34 info: 🚀 App listening on the port 5001
+2022-08-22 14:05:34 info: =================================
+2022-08-22 14:05:36 info: MongoDb Connected
+2022-08-22 14:06:31 info: Connecting to Database..
+2022-08-22 14:06:31 info: =================================
+2022-08-22 14:06:31 info: ======= ENV: development =======
+2022-08-22 14:06:31 info: 🚀 App listening on the port 5001
+2022-08-22 14:06:31 info: =================================
+2022-08-22 14:06:33 info: MongoDb Connected
+2022-08-22 14:07:16 info: Connecting to Database..
+2022-08-22 14:07:16 info: =================================
+2022-08-22 14:07:16 info: ======= ENV: development =======
+2022-08-22 14:07:16 info: 🚀 App listening on the port 5001
+2022-08-22 14:07:16 info: =================================
+2022-08-22 14:07:20 info: MongoDb Connected
+2022-08-22 14:09:28 error: [POST] /api/employee >> StatusCode:: 400, Message:: property firstName should not exist, property lastName should not exist, property number should not exist, property gender should not exist, property id should not exist, property photo should not exist, password must be a string
+2022-08-22 14:09:28 info: [0mPOST /api/employee [33m400[0m 30.473 ms - 243[0m
+2022-08-22 14:11:20 info: Connecting to Database..
+2022-08-22 14:11:21 info: =================================
+2022-08-22 14:11:21 info: ======= ENV: development =======
+2022-08-22 14:11:21 info: 🚀 App listening on the port 5001
+2022-08-22 14:11:21 info: =================================
+2022-08-22 14:11:22 info: MongoDb Connected
+2022-08-22 14:11:26 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be shorter than or equal to 10 characters
+2022-08-22 14:11:26 info: [0mPOST /api/employee [33m400[0m 25.114 ms - 67[0m
+2022-08-22 14:20:22 info: Connecting to Database..
+2022-08-22 14:20:22 info: =================================
+2022-08-22 14:20:22 info: ======= ENV: development =======
+2022-08-22 14:20:22 info: 🚀 App listening on the port 5001
+2022-08-22 14:20:22 info: =================================
+2022-08-22 14:20:24 info: MongoDb Connected
+2022-08-22 14:21:57 info: Connecting to Database..
+2022-08-22 14:21:57 info: =================================
+2022-08-22 14:21:57 info: ======= ENV: development =======
+2022-08-22 14:21:57 info: 🚀 App listening on the port 5001
+2022-08-22 14:21:57 info: =================================
+2022-08-22 14:21:59 info: MongoDb Connected
+2022-08-22 14:22:09 error: [POST] /api/employee >> StatusCode:: 500, Message:: Invalid locale 'LK'
+2022-08-22 14:22:09 info: [0mPOST /api/employee [31m500[0m 30.729 ms - 33[0m
+2022-08-22 14:22:20 info: Connecting to Database..
+2022-08-22 14:22:20 info: =================================
+2022-08-22 14:22:20 info: ======= ENV: development =======
+2022-08-22 14:22:20 info: 🚀 App listening on the port 5001
+2022-08-22 14:22:20 info: =================================
+2022-08-22 14:22:21 info: MongoDb Connected
+2022-08-22 14:22:33 error: [POST] /api/employee >> StatusCode:: 500, Message:: Invalid locale 'SL'
+2022-08-22 14:22:33 info: [0mPOST /api/employee [31m500[0m 25.885 ms - 33[0m
+2022-08-22 14:24:23 info: Connecting to Database..
+2022-08-22 14:24:23 info: =================================
+2022-08-22 14:24:23 info: ======= ENV: development =======
+2022-08-22 14:24:23 info: 🚀 App listening on the port 5001
+2022-08-22 14:24:23 info: =================================
+2022-08-22 14:24:25 info: MongoDb Connected
+2022-08-22 14:24:27 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-22 14:24:27 info: [0mPOST /api/employee [33m400[0m 29.837 ms - 43[0m
+2022-08-22 14:24:50 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-22 14:24:50 info: [0mPOST /api/employee [33m400[0m 17.357 ms - 43[0m
+2022-08-22 14:25:04 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-22 14:25:04 info: [0mPOST /api/employee [33m400[0m 6.968 ms - 43[0m
+2022-08-22 14:25:09 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-22 14:25:09 info: [0mPOST /api/employee [33m400[0m 2.600 ms - 43[0m
+2022-08-22 14:25:25 error: [POST] /api/employee >> StatusCode:: 400, Message:: Unexpected number in JSON at position 112
+2022-08-22 14:25:25 info: [0mPOST /api/employee [33m400[0m 5.864 ms - 55[0m
+2022-08-22 14:25:35 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-22 14:25:35 info: [0mPOST /api/employee [33m400[0m 3.893 ms - 43[0m
+2022-08-22 14:28:51 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-22 14:28:51 info: [0mPOST /api/employee [33m400[0m 1.705 ms - 43[0m
+2022-08-22 14:30:07 info: Connecting to Database..
+2022-08-22 14:30:07 info: =================================
+2022-08-22 14:30:07 info: ======= ENV: development =======
+2022-08-22 14:30:07 info: 🚀 App listening on the port 5001
+2022-08-22 14:30:07 info: =================================
+2022-08-22 14:30:09 info: MongoDb Connected
+2022-08-22 14:30:10 error: [POST] /api/employee >> StatusCode:: 500, Message:: Invalid locale 'SL'
+2022-08-22 14:30:10 info: [0mPOST /api/employee [31m500[0m 24.954 ms - 33[0m
+2022-08-22 14:37:41 info: Connecting to Database..
+2022-08-22 14:37:41 info: =================================
+2022-08-22 14:37:41 info: ======= ENV: development =======
+2022-08-22 14:37:41 info: 🚀 App listening on the port 5001
+2022-08-22 14:37:41 info: =================================
+2022-08-22 14:37:42 info: MongoDb Connected
+2022-08-22 14:38:36 info: [0mPOST /api/employee [32m201[0m 334.897 ms - 249[0m
+2022-08-22 14:38:49 error: [POST] /api/employee >> StatusCode:: 409, Message:: This email Darrin_Rippin@gmail.com already exists
+2022-08-22 14:38:49 info: [0mPOST /api/employee [33m409[0m 144.560 ms - 63[0m
+2022-08-22 14:38:55 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-22 14:38:55 info: [0mPOST /api/employee [33m400[0m 4.578 ms - 43[0m
+2022-08-22 14:39:04 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-22 14:39:04 info: [0mPOST /api/employee [33m400[0m 2.751 ms - 43[0m
+2022-08-22 14:39:12 error: [POST] /api/employee >> StatusCode:: 409, Message:: This email Darrin_Rippin@gmail.com already exists
+2022-08-22 14:39:12 info: [0mPOST /api/employee [33m409[0m 131.011 ms - 63[0m
+2022-08-22 14:40:37 info: Connecting to Database..
+2022-08-22 14:40:37 info: =================================
+2022-08-22 14:40:37 info: ======= ENV: development =======
+2022-08-22 14:40:37 info: 🚀 App listening on the port 5001
+2022-08-22 14:40:37 info: =================================
+2022-08-22 14:40:39 info: MongoDb Connected
+2022-08-22 14:40:47 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-22 14:40:47 info: [0mPOST /api/employee [33m400[0m 28.198 ms - 43[0m
+2022-08-22 14:42:34 info: Connecting to Database..
+2022-08-22 14:42:34 info: =================================
+2022-08-22 14:42:34 info: ======= ENV: development =======
+2022-08-22 14:42:34 info: 🚀 App listening on the port 5001
+2022-08-22 14:42:34 info: =================================
+2022-08-22 14:42:36 info: MongoDb Connected
+2022-08-22 14:42:38 info: Connecting to Database..
+2022-08-22 14:42:38 info: =================================
+2022-08-22 14:42:38 info: ======= ENV: development =======
+2022-08-22 14:42:38 info: 🚀 App listening on the port 5001
+2022-08-22 14:42:38 info: =================================
+2022-08-22 14:42:39 info: MongoDb Connected
+2022-08-22 14:42:43 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-22 14:42:43 info: [0mPOST /api/employee [33m400[0m 23.715 ms - 43[0m
+2022-08-22 14:42:49 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-22 14:42:49 info: [0mPOST /api/employee [33m400[0m 16.803 ms - 43[0m
+2022-08-22 14:43:52 info: Connecting to Database..
+2022-08-22 14:43:52 info: =================================
+2022-08-22 14:43:52 info: ======= ENV: development =======
+2022-08-22 14:43:52 info: 🚀 App listening on the port 5001
+2022-08-22 14:43:52 info: =================================
+2022-08-22 14:43:54 info: MongoDb Connected
+2022-08-22 14:45:13 info: Connecting to Database..
+2022-08-22 14:45:13 info: =================================
+2022-08-22 14:45:13 info: ======= ENV: development =======
+2022-08-22 14:45:13 info: 🚀 App listening on the port 5001
+2022-08-22 14:45:13 info: =================================
+2022-08-22 14:45:15 info: MongoDb Connected
+2022-08-22 14:45:27 error: [POST] /api/employee >> StatusCode:: 400, Message:: gender must be one of the following values: M, F
+2022-08-22 14:45:27 info: [0mPOST /api/employee [33m400[0m 24.673 ms - 62[0m
+2022-08-22 14:45:36 error: [POST] /api/employee >> StatusCode:: 409, Message:: This email Darrin_Rippin@gmail.com already exists
+2022-08-22 14:45:36 info: [0mPOST /api/employee [33m409[0m 175.200 ms - 63[0m
+2022-08-22 15:05:45 info: MongoDb Connected
+2022-08-22 15:54:04 info: MongoDb Connected
+2022-08-22 16:24:51 info: MongoDb Connected
+2022-08-22 16:55:39 info: MongoDb Connected
+2022-08-22 17:38:19 error: [POST] /api/employee >> StatusCode:: 409, Message:: This email Darrin_Rippin@gmail.com already exists
+2022-08-22 17:38:19 info: [0mPOST /api/employee [33m409[0m 1083.380 ms - 63[0m
+2022-08-22 17:38:28 info: [0mGET /api/employee [32m200[0m 150.637 ms - 251[0m
+2022-08-22 17:47:57 info: [0mGET /employee/list [33m404[0m 2.493 ms - 152[0m
+2022-08-22 17:48:12 info: [0mGET /api-docs [36m301[0m 5.020 ms - 183[0m
+2022-08-22 17:48:12 info: [0mGET /api-docs/ [32m200[0m 8.115 ms - -[0m
+2022-08-22 17:48:12 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 0.310 ms - -[0m
+2022-08-22 17:48:13 info: [0mGET /api-docs/swagger-ui.css [32m200[0m 4.125 ms - -[0m
+2022-08-22 17:48:13 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [32m200[0m 3.378 ms - -[0m
+2022-08-22 17:48:13 info: [0mGET /api-docs/swagger-ui-bundle.js [32m200[0m 3.818 ms - -[0m
+2022-08-22 17:48:13 info: [0mGET /api-docs/favicon-32x32.png [32m200[0m 1.259 ms - 628[0m
+2022-08-22 17:48:47 info: [0mGET /api-docs/ [36m304[0m 3.711 ms - -[0m
+2022-08-22 17:48:47 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 2.008 ms - -[0m
+2022-08-22 17:48:47 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 2.774 ms - -[0m
+2022-08-22 17:48:47 info: [0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.447 ms - -[0m
+2022-08-22 17:48:47 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 4.108 ms - -[0m
+2022-08-22 17:48:47 info: [0mGET /api-docs/favicon-32x32.png [36m304[0m 1.373 ms - -[0m
+2022-08-22 17:49:10 info: Connecting to Database..
+2022-08-22 17:49:10 info: =================================
+2022-08-22 17:49:10 info: ======= ENV: development =======
+2022-08-22 17:49:10 info: 🚀 App listening on the port 5001
+2022-08-22 17:49:10 info: =================================
+2022-08-22 17:49:11 info: MongoDb Connected
+2022-08-22 17:49:21 info: [0mGET /api-docs/ [36m304[0m 8.752 ms - -[0m
+2022-08-22 17:49:21 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 2.261 ms - -[0m
+2022-08-22 17:49:21 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 0.778 ms - -[0m
+2022-08-22 17:49:21 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 1.398 ms - -[0m
+2022-08-22 17:49:21 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 2.191 ms - -[0m
+2022-08-22 17:49:21 info: [0mGET /api-docs/favicon-32x32.png [36m304[0m 0.773 ms - -[0m
+2022-08-22 17:49:32 info: [0mGET /employees [33m404[0m 4.160 ms - 148[0m
+2022-08-22 17:54:46 info: Connecting to Database..
+2022-08-22 17:54:46 info: =================================
+2022-08-22 17:54:46 info: ======= ENV: development =======
+2022-08-22 17:54:46 info: 🚀 App listening on the port 5001
+2022-08-22 17:54:46 info: =================================
+2022-08-22 17:54:49 info: MongoDb Connected
+2022-08-22 17:54:55 info: [0mGET /api-docs/ [36m304[0m 12.819 ms - -[0m
+2022-08-22 17:54:55 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 2.212 ms - -[0m
+2022-08-22 17:54:55 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 2.411 ms - -[0m
+2022-08-22 17:54:55 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 1.535 ms - -[0m
+2022-08-22 17:54:55 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 1.224 ms - -[0m
+2022-08-22 17:54:55 info: [0mGET /api-docs/favicon-32x32.png [36m304[0m 0.981 ms - -[0m
+2022-08-22 17:55:08 info: [0mGET /api/employees [33m404[0m 4.966 ms - 152[0m
+2022-08-22 17:55:11 info: [0mGET /api/employees [33m404[0m 1.212 ms - 152[0m
+2022-08-22 17:55:18 info: [0mGET /api/employees [33m404[0m 3.349 ms - 152[0m
+2022-08-22 17:55:43 info: Connecting to Database..
+2022-08-22 17:55:43 info: =================================
+2022-08-22 17:55:43 info: ======= ENV: development =======
+2022-08-22 17:55:43 info: 🚀 App listening on the port 5001
+2022-08-22 17:55:43 info: =================================
+2022-08-22 17:55:45 info: MongoDb Connected
+2022-08-22 17:55:49 info: [0mGET /api/employee [32m200[0m 141.723 ms - 251[0m
+2022-08-22 17:56:01 info: [0mGET /api/employees [33m404[0m 5.790 ms - 152[0m
+2022-08-22 17:56:06 info: [0mGET /api-docs/ [36m304[0m 5.389 ms - -[0m
+2022-08-22 17:56:06 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 3.058 ms - -[0m
+2022-08-22 17:56:06 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 1.579 ms - -[0m
+2022-08-22 17:56:06 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 4.574 ms - -[0m
+2022-08-22 17:56:06 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 2.722 ms - -[0m
+2022-08-22 17:56:06 info: [0mGET /api-docs/favicon-32x32.png [36m304[0m 0.722 ms - -[0m
+2022-08-22 17:56:12 info: [0mGET /api/employee [32m200[0m 139.591 ms - 251[0m
+2022-08-22 18:03:34 info: Connecting to Database..
+2022-08-22 18:03:34 info: =================================
+2022-08-22 18:03:34 info: ======= ENV: development =======
+2022-08-22 18:03:34 info: 🚀 App listening on the port 5001
+2022-08-22 18:03:34 info: =================================
+2022-08-22 18:03:36 info: MongoDb Connected
+2022-08-22 18:03:37 info: [0mGET /api-docs/ [36m304[0m 11.576 ms - -[0m
+2022-08-22 18:03:37 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 4.619 ms - -[0m
+2022-08-22 18:03:37 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 2.978 ms - -[0m
+2022-08-22 18:03:37 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 2.065 ms - -[0m
+2022-08-22 18:03:37 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 1.146 ms - -[0m
+2022-08-22 18:03:37 info: [0mGET /api-docs/favicon-32x32.png [36m304[0m 0.982 ms - -[0m
+2022-08-22 18:24:27 info: Connecting to Database..
+2022-08-22 18:24:27 info: =================================
+2022-08-22 18:24:27 info: ======= ENV: development =======
+2022-08-22 18:24:27 info: 🚀 App listening on the port 5001
+2022-08-22 18:24:27 info: =================================
+2022-08-22 18:24:29 info: MongoDb Connected
+2022-08-22 18:24:39 info: [0mGET /api-docs/ [36m304[0m 10.982 ms - -[0m
+2022-08-22 18:24:39 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 3.522 ms - -[0m
+2022-08-22 18:24:39 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 2.630 ms - -[0m
+2022-08-22 18:24:39 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 2.148 ms - -[0m
+2022-08-22 18:24:39 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 1.184 ms - -[0m
+2022-08-22 18:24:39 info: [0mGET /api-docs/favicon-32x32.png [36m304[0m 0.868 ms - -[0m
+2022-08-22 18:25:14 info: Connecting to Database..
+2022-08-22 18:25:14 info: =================================
+2022-08-22 18:25:14 info: ======= ENV: development =======
+2022-08-22 18:25:14 info: 🚀 App listening on the port 5001
+2022-08-22 18:25:14 info: =================================
+2022-08-22 18:25:16 info: Connecting to Database..
+2022-08-22 18:25:16 info: =================================
+2022-08-22 18:25:16 info: ======= ENV: development =======
+2022-08-22 18:25:16 info: 🚀 App listening on the port 5001
+2022-08-22 18:25:16 info: =================================
+2022-08-22 18:25:17 info: MongoDb Connected
+2022-08-22 18:25:18 info: [0mGET /api-docs/ [36m304[0m 10.021 ms - -[0m
+2022-08-22 18:25:18 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 3.456 ms - -[0m
+2022-08-22 18:25:18 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 2.142 ms - -[0m
+2022-08-22 18:25:18 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 1.522 ms - -[0m
+2022-08-22 18:25:18 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 0.859 ms - -[0m
+2022-08-22 18:25:18 info: [0mGET /api-docs/favicon-32x32.png [36m304[0m 2.905 ms - -[0m
+2022-08-22 19:16:13 info: MongoDb Connected
+2022-08-22 19:26:06 info: MongoDb Connected
+2022-08-22 19:30:03 info: MongoDb Connected
+2022-08-22 20:50:20 info: MongoDb Connected
+2022-08-22 20:53:53 info: MongoDb Connected
+2022-08-22 21:26:10 info: MongoDb Connected

@@ -1,0 +1,202 @@
+2022-08-26 00:06:13 info: MongoDb Connected
+2022-08-26 00:22:32 info: MongoDb Connected
+2022-08-26 00:22:32 info: [0mGET /api/employee [32m200[0m 2731.476 ms - 980[0m
+2022-08-26 00:29:29 info: [0mGET /api/employee [32m200[0m 66.071 ms - 980[0m
+2022-08-26 00:29:30 info: [0mGET /api/employee [32m200[0m 634.225 ms - 980[0m
+2022-08-26 00:39:01 info: [0mGET /api/employee [32m200[0m 58.344 ms - 980[0m
+2022-08-26 00:39:01 info: [0mGET /api/employee [32m200[0m 64.906 ms - 980[0m
+2022-08-26 01:24:26 info: [0mOPTIONS /api/employee/63077ae99baf294863163551 [32m204[0m 0.683 ms - 0[0m
+2022-08-26 01:24:26 info: [0mDELETE /api/employee/63077ae99baf294863163551 [32m200[0m 82.289 ms - 225[0m
+2022-08-26 01:24:31 info: [0mGET /api/employee/6307a4b39baf2948631635bb [32m200[0m 58.413 ms - 176[0m
+2022-08-26 01:24:52 info: [0mGET /api/employee/6307a4b39baf2948631635bb [32m200[0m 61.045 ms - 176[0m
+2022-08-26 01:25:32 info: [0mOPTIONS /api/employee/6307a4b39baf2948631635bb [32m204[0m 0.198 ms - 0[0m
+2022-08-26 01:25:32 info: [0mPUT /api/employee/6307a4b39baf2948631635bb [32m200[0m 133.830 ms - 175[0m
+2022-08-26 01:25:36 info: [0mGET /api/employee [32m200[0m 59.237 ms - 782[0m
+2022-08-26 01:25:45 info: [0mGET /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 60.533 ms - 231[0m
+2022-08-26 01:25:47 info: [0mGET /api/employee [32m200[0m 62.452 ms - 782[0m
+2022-08-26 01:25:49 info: [0mGET /api/employee/6307a4b39baf2948631635bb [32m200[0m 66.711 ms - 175[0m
+2022-08-26 01:25:51 info: [0mGET /api/employee [32m200[0m 64.069 ms - 782[0m
+2022-08-26 09:52:14 info: Connecting to Database..
+2022-08-26 09:52:14 info: =================================
+2022-08-26 09:52:14 info: ======= ENV: development =======
+2022-08-26 09:52:14 info: 🚀 App listening on the port 5001
+2022-08-26 09:52:14 info: =================================
+2022-08-26 09:52:16 info: MongoDb Connected
+2022-08-26 10:25:30 info: MongoDb Connected
+2022-08-26 10:27:26 info: MongoDb Connected
+2022-08-26 11:16:45 info: Connecting to Database..
+2022-08-26 11:16:45 info: =================================
+2022-08-26 11:16:45 info: ======= ENV: development =======
+2022-08-26 11:16:45 info: 🚀 App listening on the port 5001
+2022-08-26 11:16:45 info: =================================
+2022-08-26 11:17:18 error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2022-08-26 11:35:14 info: Connecting to Database..
+2022-08-26 11:35:14 info: =================================
+2022-08-26 11:35:14 info: ======= ENV: development =======
+2022-08-26 11:35:14 info: 🚀 App listening on the port 5001
+2022-08-26 11:35:14 info: =================================
+2022-08-26 11:35:29 info: Connecting to Database..
+2022-08-26 11:35:29 info: =================================
+2022-08-26 11:35:29 info: ======= ENV: development =======
+2022-08-26 11:35:29 info: 🚀 App listening on the port 5001
+2022-08-26 11:35:29 info: =================================
+2022-08-26 11:35:59 error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2022-08-26 11:36:11 info: Connecting to Database..
+2022-08-26 11:36:11 info: =================================
+2022-08-26 11:36:11 info: ======= ENV: development =======
+2022-08-26 11:36:11 info: 🚀 App listening on the port 5001
+2022-08-26 11:36:11 info: =================================
+2022-08-26 11:36:13 info: MongoDb Connected
+2022-08-26 11:36:23 info: [0mGET /api/employee [32m200[0m 142.936 ms - 782[0m
+2022-08-26 11:49:15 info: [0mGET /api/employee [32m200[0m 123.233 ms - 782[0m
+2022-08-26 11:49:15 info: [0mGET /api/employee [32m200[0m 130.907 ms - 782[0m
+2022-08-26 12:38:39 info: [0mGET /api/employee [32m200[0m 144.223 ms - 782[0m
+2022-08-26 12:41:26 info: [0mGET /api/employee [32m200[0m 133.087 ms - 782[0m
+2022-08-26 12:59:18 info: [0mGET /api/employee [32m200[0m 120.161 ms - 782[0m
+2022-08-26 14:15:20 info: [0mGET /api/employee [32m200[0m 134.370 ms - 782[0m
+2022-08-26 14:15:58 info: [0mGET /api/employee [32m200[0m 132.316 ms - 782[0m
+2022-08-26 14:15:58 info: [0mGET /api/employee [32m200[0m 135.292 ms - 782[0m
+2022-08-26 14:16:12 info: [0mGET /api/employee [32m200[0m 127.590 ms - 782[0m
+2022-08-26 14:20:43 info: [0mGET /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 146.393 ms - 231[0m
+2022-08-26 14:29:21 info: [0mGET /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 139.998 ms - 231[0m
+2022-08-26 14:29:21 info: [0mGET /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 138.201 ms - 231[0m
+2022-08-26 14:56:09 info: [0mGET /api/employee [32m200[0m 139.861 ms - 782[0m
+2022-08-26 14:56:32 info: [0mGET /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 135.414 ms - 231[0m
+2022-08-26 14:56:32 info: [0mGET /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 131.569 ms - 231[0m
+2022-08-26 14:56:38 info: [0mOPTIONS /api/employee/6304b882329c80d7bbbd6094 [32m204[0m 0.625 ms - 0[0m
+2022-08-26 14:56:38 info: [0mPUT /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 318.678 ms - 231[0m
+2022-08-26 14:59:51 info: [0mOPTIONS /api/employee/6304b882329c80d7bbbd6094 [32m204[0m 0.459 ms - 0[0m
+2022-08-26 14:59:51 info: [0mPUT /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 398.578 ms - 231[0m
+2022-08-26 14:59:56 info: [0mGET /api/employee [32m200[0m 232.890 ms - 782[0m
+2022-08-26 15:19:42 info: MongoDb Connected
+2022-08-26 16:21:56 info: MongoDb Connected
+2022-08-26 16:56:32 info: MongoDb Connected
+2022-08-26 18:21:11 info: MongoDb Connected
+2022-08-26 18:27:52 info: [0mGET /api/employee [32m200[0m 864.040 ms - 782[0m
+2022-08-26 18:27:53 info: [0mGET /api/employee [32m200[0m 127.181 ms - 782[0m
+2022-08-26 18:27:53 info: [0mGET /api/employee [32m200[0m 137.348 ms - 782[0m
+2022-08-26 18:27:54 info: [0mGET /api/employee [32m200[0m 120.295 ms - 782[0m
+2022-08-26 18:27:54 info: [0mGET /api/employee [32m200[0m 104.974 ms - 782[0m
+2022-08-26 18:27:55 info: [0mGET /api/employee [32m200[0m 115.145 ms - 782[0m
+2022-08-26 18:27:55 info: [0mGET /api/employee [32m200[0m 111.660 ms - 782[0m
+2022-08-26 18:27:56 info: [0mGET /api/employee [32m200[0m 115.623 ms - 782[0m
+2022-08-26 18:27:56 info: [0mGET /api/employee [32m200[0m 121.926 ms - 782[0m
+2022-08-26 18:27:57 info: [0mGET /api/employee [32m200[0m 112.868 ms - 782[0m
+2022-08-26 18:27:57 info: [0mGET /api/employee [32m200[0m 112.857 ms - 782[0m
+2022-08-26 18:27:58 info: [0mGET /api/employee [32m200[0m 115.026 ms - 782[0m
+2022-08-26 18:27:58 info: [0mGET /api/employee [32m200[0m 160.609 ms - 782[0m
+2022-08-26 18:27:59 info: [0mGET /api/employee [32m200[0m 112.040 ms - 782[0m
+2022-08-26 18:27:59 info: [0mGET /api/employee [32m200[0m 120.560 ms - 782[0m
+2022-08-26 18:28:00 info: [0mGET /api/employee [32m200[0m 113.340 ms - 782[0m
+2022-08-26 18:28:00 info: [0mGET /api/employee [32m200[0m 112.392 ms - 782[0m
+2022-08-26 18:28:00 info: [0mGET /api/employee [32m200[0m 113.807 ms - 782[0m
+2022-08-26 18:28:01 info: [0mGET /api/employee [32m200[0m 116.349 ms - 782[0m
+2022-08-26 18:28:01 info: [0mGET /api/employee [32m200[0m 117.224 ms - 782[0m
+2022-08-26 18:28:02 info: [0mGET /api/employee [32m200[0m 117.728 ms - 782[0m
+2022-08-26 18:28:02 info: [0mGET /api/employee [32m200[0m 115.363 ms - 782[0m
+2022-08-26 18:28:03 info: [0mGET /api/employee [32m200[0m 122.205 ms - 782[0m
+2022-08-26 18:28:03 info: [0mGET /api/employee [32m200[0m 118.722 ms - 782[0m
+2022-08-26 18:28:04 info: [0mGET /api/employee [32m200[0m 147.455 ms - 782[0m
+2022-08-26 18:28:04 info: [0mGET /api/employee [32m200[0m 112.085 ms - 782[0m
+2022-08-26 18:28:05 info: [0mGET /api/employee [32m200[0m 134.924 ms - 782[0m
+2022-08-26 18:28:05 info: [0mGET /api/employee [32m200[0m 136.268 ms - 782[0m
+2022-08-26 18:28:06 info: [0mGET /api/employee [32m200[0m 119.372 ms - 782[0m
+2022-08-26 18:28:06 info: [0mGET /api/employee [32m200[0m 126.582 ms - 782[0m
+2022-08-26 18:28:21 info: [0mGET /api/employee [32m200[0m 124.952 ms - 782[0m
+2022-08-26 18:28:32 info: [0mGET /api/employee [32m200[0m 142.023 ms - 782[0m
+2022-08-26 18:28:53 info: [0mGET /api/employee [32m200[0m 147.906 ms - 782[0m
+2022-08-26 18:29:08 info: Connecting to Database..
+2022-08-26 18:29:08 info: =================================
+2022-08-26 18:29:08 info: ======= ENV: development =======
+2022-08-26 18:29:08 info: 🚀 App listening on the port 5001
+2022-08-26 18:29:08 info: =================================
+2022-08-26 18:29:10 info: MongoDb Connected
+2022-08-26 18:29:29 info: [0mGET /api/employee [32m200[0m 147.394 ms - 782[0m
+2022-08-26 18:38:30 info: [0mGET /api/employee [32m200[0m 157.705 ms - 782[0m
+2022-08-26 18:38:31 info: [0mGET /api/employee [32m200[0m 152.888 ms - 782[0m
+2022-08-26 18:53:03 info: [0mGET /api/employee [32m200[0m 144.211 ms - 782[0m
+2022-08-26 19:48:46 info: MongoDb Connected
+2022-08-26 20:07:44 info: MongoDb Connected
+2022-08-26 20:12:20 info: [0mGET /api/employee [32m200[0m 974.365 ms - 782[0m
+2022-08-26 20:12:33 info: [0mOPTIONS /api/employee [32m204[0m 0.458 ms - 0[0m
+2022-08-26 20:12:34 info: [0mPOST /api/employee [32m201[0m 606.865 ms - 194[0m
+2022-08-26 20:12:40 info: [0mGET /api/employee [32m200[0m 133.790 ms - 948[0m
+2022-08-26 20:12:59 info: [0mGET /api/employee/6308dbd995b767c869fb1b9d [32m200[0m 231.612 ms - 194[0m
+2022-08-26 20:13:05 info: [0mGET /api/employee/6308dbd995b767c869fb1b9d [32m200[0m 141.723 ms - 194[0m
+2022-08-26 20:13:08 info: [0mGET /api/employee [32m200[0m 158.129 ms - 948[0m
+2022-08-26 20:13:10 info: [0mGET /api/employee/630713cfa1f71f0924180430 [32m200[0m 129.602 ms - 227[0m
+2022-08-26 20:13:15 info: [0mGET /api/employee [32m200[0m 149.931 ms - 948[0m
+2022-08-26 20:13:18 info: [0mGET /api/employee/63034794a9af82dc1d4ee3c6 [32m200[0m 139.845 ms - 231[0m
+2022-08-26 20:13:24 info: [0mGET /api/employee [32m200[0m 128.301 ms - 948[0m
+2022-08-26 20:13:26 info: [0mGET /api/employee/63034794a9af82dc1d4ee3c6 [32m200[0m 147.874 ms - 231[0m
+2022-08-26 20:13:28 info: [0mGET /api/employee [32m200[0m 139.514 ms - 948[0m
+2022-08-26 20:13:29 info: [0mGET /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 143.592 ms - 231[0m
+2022-08-26 20:13:31 info: [0mGET /api/employee [32m200[0m 148.334 ms - 948[0m
+2022-08-26 20:14:10 info: [0mGET /api/employee [32m200[0m 139.202 ms - 948[0m
+2022-08-26 20:14:22 info: [0mGET /api/employee/6308dbd995b767c869fb1b9d [32m200[0m 135.379 ms - 194[0m
+2022-08-26 20:28:43 info: [0mGET /api/employee [32m200[0m 159.726 ms - 948[0m
+2022-08-26 20:28:49 info: [0mGET /api/employee [32m200[0m 148.390 ms - 948[0m
+2022-08-26 20:28:52 info: [0mGET /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 191.477 ms - 231[0m
+2022-08-26 20:32:53 info: [0mGET /api/employee [32m200[0m 148.053 ms - 948[0m
+2022-08-26 20:32:56 info: [0mGET /api/employee/63034794a9af82dc1d4ee3c6 [32m200[0m 407.830 ms - 231[0m
+2022-08-26 20:32:58 info: [0mGET /api/employee [32m200[0m 146.313 ms - 948[0m
+2022-08-26 20:35:02 info: [0mGET /api/employee/630713cfa1f71f0924180430 [32m200[0m 171.486 ms - 227[0m
+2022-08-26 20:35:23 info: [0mGET /api/employee [32m200[0m 166.311 ms - 948[0m
+2022-08-26 20:35:25 info: [0mGET /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 144.326 ms - 231[0m
+2022-08-26 20:35:29 info: [0mOPTIONS /api/employee/6304b882329c80d7bbbd6094 [32m204[0m 0.110 ms - 0[0m
+2022-08-26 20:35:30 info: [0mPUT /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 315.859 ms - 231[0m
+2022-08-26 20:35:31 info: [0mGET /api/employee [32m200[0m 147.564 ms - 948[0m
+2022-08-26 20:35:44 info: [0mOPTIONS /api/employee/6304b882329c80d7bbbd6094 [32m204[0m 0.323 ms - 0[0m
+2022-08-26 20:35:44 info: [0mDELETE /api/employee/6304b882329c80d7bbbd6094 [32m200[0m 153.369 ms - 231[0m
+2022-08-26 20:35:48 info: [0mGET /api/employee/63034794a9af82dc1d4ee3c6 [32m200[0m 153.208 ms - 231[0m
+2022-08-26 20:35:55 info: [0mOPTIONS /api/employee/63034794a9af82dc1d4ee3c6 [32m204[0m 0.158 ms - 0[0m
+2022-08-26 20:35:55 info: [0mPUT /api/employee/63034794a9af82dc1d4ee3c6 [32m200[0m 324.575 ms - 234[0m
+2022-08-26 20:35:58 info: [0mGET /api/employee [32m200[0m 162.357 ms - 748[0m
+2022-08-26 20:36:04 info: [0mOPTIONS /api/employee/63034794a9af82dc1d4ee3c6 [32m204[0m 0.313 ms - 0[0m
+2022-08-26 20:36:04 info: [0mDELETE /api/employee/63034794a9af82dc1d4ee3c6 [32m200[0m 183.025 ms - 234[0m
+2022-08-26 20:58:42 info: MongoDb Connected
+2022-08-26 21:11:25 info: Connecting to Database..
+2022-08-26 21:11:25 info: =================================
+2022-08-26 21:11:25 info: ======= ENV: development =======
+2022-08-26 21:11:25 info: 🚀 App listening on the port 5001
+2022-08-26 21:11:25 info: =================================
+2022-08-26 21:11:27 info: MongoDb Connected
+2022-08-26 21:12:06 info: [0mGET /api/employee [32m200[0m 378.393 ms - 542[0m
+2022-08-26 21:12:09 error: [GET] /api/employee/630716c7eb0a65ec4d95486d >> StatusCode:: 409, Message:: Employee doesn't exist
+2022-08-26 21:12:09 info: [0mGET /api/employee/630716c7eb0a65ec4d95486d [33m409[0m 189.118 ms - 36[0m
+2022-08-26 21:12:14 info: [0mPOST /api/employee [32m201[0m 367.591 ms - 172[0m
+2022-08-26 21:12:16 error: [PUT] /api/employee/630716c7eb0a65ec4d95486d >> StatusCode:: 400, Message:: property id should not exist
+2022-08-26 21:12:16 info: [0mPUT /api/employee/630716c7eb0a65ec4d95486d [33m400[0m 2.252 ms - 42[0m
+2022-08-26 21:27:08 info: Connecting to Database..
+2022-08-26 21:27:08 info: =================================
+2022-08-26 21:27:08 info: ======= ENV: development =======
+2022-08-26 21:27:08 info: 🚀 App listening on the port 5001
+2022-08-26 21:27:08 info: =================================
+2022-08-26 21:27:10 info: MongoDb Connected
+2022-08-26 21:27:25 info: [0mGET /api-docs [36m301[0m 5.920 ms - 183[0m
+2022-08-26 21:27:25 info: [0mGET /api-docs/ [32m200[0m 3.820 ms - -[0m
+2022-08-26 21:27:25 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 0.257 ms - -[0m
+2022-08-26 21:27:25 info: [0mGET /api-docs/swagger-ui.css [32m200[0m 9.050 ms - -[0m
+2022-08-26 21:27:25 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [32m200[0m 2.691 ms - -[0m
+2022-08-26 21:27:25 info: [0mGET /api-docs/swagger-ui-bundle.js [32m200[0m 5.153 ms - -[0m
+2022-08-26 21:27:25 info: [0mGET /api-docs/favicon-32x32.png [32m200[0m 1.599 ms - 628[0m
+2022-08-26 21:29:33 info: Connecting to Database..
+2022-08-26 21:29:33 info: =================================
+2022-08-26 21:29:33 info: ======= ENV: development =======
+2022-08-26 21:29:33 info: 🚀 App listening on the port 5001
+2022-08-26 21:29:33 info: =================================
+2022-08-26 21:29:38 info: [0mGET /api-docs/ [36m304[0m 12.177 ms - -[0m
+2022-08-26 21:29:38 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 1.381 ms - -[0m
+2022-08-26 21:29:38 info: [0mGET /api-docs/swagger-ui-bundle.js [36m304[0m 1.323 ms - -[0m
+2022-08-26 21:29:38 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 1.990 ms - -[0m
+2022-08-26 21:29:38 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 1.158 ms - -[0m
+2022-08-26 21:29:38 info: [0mGET /api-docs/favicon-32x32.png [36m304[0m 0.955 ms - -[0m
+2022-08-26 21:30:07 info: MongoDb Connected
+2022-08-26 21:31:25 info: Connecting to Database..
+2022-08-26 21:31:25 info: =================================
+2022-08-26 21:31:25 info: ======= ENV: development =======
+2022-08-26 21:31:25 info: 🚀 App listening on the port 5001
+2022-08-26 21:31:25 info: =================================
+2022-08-26 21:31:30 info: MongoDb Connected
+2022-08-26 21:35:01 info: [0mGET /api/employee [32m200[0m 161.700 ms - 686[0m
+2022-08-26 21:35:02 info: [0mGET /api/employee [32m200[0m 1334.399 ms - 686[0m

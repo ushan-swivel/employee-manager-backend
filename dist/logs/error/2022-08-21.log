@@ -1,0 +1,24 @@
+2022-08-21 13:14:28 error: uncaughtException: connect ECONNREFUSED ::1:27017
+MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at NativeConnection.Connection.openUri (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/connection.js:824:32)
+    at /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:380:10
+    at /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:1225:10)
+    at Mongoose.connect (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:379:20)
+    at App.connectToDatabase (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/app.ts:52:12)
+    at new App (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/app.ts:27:10)
+    at Object.<anonymous> (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts:9:13)
+2022-08-21 13:15:54 error: uncaughtException: connect ECONNREFUSED ::1:27017
+MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at NativeConnection.Connection.openUri (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/connection.js:824:32)
+    at /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:380:10
+    at /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:1225:10)
+    at Mongoose.connect (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:379:20)
+    at App.connectToDatabase (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/app.ts:52:12)
+    at new App (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/app.ts:27:10)
+    at Object.<anonymous> (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts:9:13)

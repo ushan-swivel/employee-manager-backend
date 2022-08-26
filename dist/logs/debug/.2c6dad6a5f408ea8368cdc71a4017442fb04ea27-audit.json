@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/dist/logs/debug/.2c6dad6a5f408ea8368cdc71a4017442fb04ea27-audit.json",
+    "files": [
+        {
+            "date": 1661320552489,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/dist/logs/debug/2022-08-24.log",
+            "hash": "d41af54ea84a31b12889028747038706a95ebf821154bdcae9074af7d3949a46"
+        }
+    ],
+    "hashType": "sha256"
+}

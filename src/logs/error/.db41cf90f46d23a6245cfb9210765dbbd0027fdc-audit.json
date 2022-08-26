@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/error/.db41cf90f46d23a6245cfb9210765dbbd0027fdc-audit.json",
+    "files": [
+        {
+            "date": 1661067837963,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/error/2022-08-21.log",
+            "hash": "683a1c8ba57c214b83b23fbbf9371e9c62813e46656f2839dbbec63b6fc786bf"
+        },
+        {
+            "date": 1661144584596,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/error/2022-08-22.log",
+            "hash": "250f1c792c2ef51f1e31a93925a6044f3cc95f3cd402125d3aec8419f170acda"
+        }
+    ],
+    "hashType": "sha256"
+}

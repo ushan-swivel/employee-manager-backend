@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/debug/.66f7efe28460da4e48ad406f75cca83c2b436e25-audit.json",
+    "files": [
+        {
+            "date": 1661067837962,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/debug/2022-08-21.log",
+            "hash": "b60d789b4be232f33b5ec20cde68467b9644a3026c58c0163a096ed7e9158d45"
+        },
+        {
+            "date": 1661144584595,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/debug/2022-08-22.log",
+            "hash": "8e32eb94821dba2ad4b42116e3a044c2b6260ccf4cba2f6d805e95bd7a3136dd"
+        },
+        {
+            "date": 1661249991733,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/debug/2022-08-23.log",
+            "hash": "d1e2a02182edf0d69bd7ccea0ebc78525eb3e27c8e1ca706044167f804d5ca94"
+        },
+        {
+            "date": 1661320647604,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/debug/2022-08-24.log",
+            "hash": "f22f05f10986bdb1f7ef9e284172b110dd5b72d31d68667c114e735a14a14324"
+        },
+        {
+            "date": 1661366363757,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/debug/2022-08-25.log",
+            "hash": "bdb46a33fa600c91bc9a42679bed25ee56d1f1ae9e116ca2bcdef010e5b6077d"
+        },
+        {
+            "date": 1661452573926,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/debug/2022-08-26.log",
+            "hash": "669e5ae820feff0e75bead7c04898c219182f7d4959401d25938189364afb78d"
+        }
+    ],
+    "hashType": "sha256"
+}

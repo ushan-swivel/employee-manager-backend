@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/error/.3c9a8a93738a060bf37c92344eb9b94bb55a9793-audit.json",
+    "files": [
+        {
+            "date": 1661145283691,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/error/2022-08-22.log",
+            "hash": "9471741915b5445366f02a3652acad524d6b06d2fed9ef8eb5b9117775840d8c"
+        },
+        {
+            "date": 1661249991735,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/error/2022-08-23.log",
+            "hash": "7a56b82fe9e036e8b143a7b9db309adcdaf031fa640245983b0a286692320b18"
+        },
+        {
+            "date": 1661320647606,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/error/2022-08-24.log",
+            "hash": "c429a05216236cad9c44bfc7c6ccefa049eaf8606a0f12e1791c59019346fb6a"
+        },
+        {
+            "date": 1661407757823,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/error/2022-08-25.log",
+            "hash": "5fe6c6bcdc6601460f779edf15f039e59e02a01955eb44c8fcd224f95b7bb066"
+        },
+        {
+            "date": 1661487734409,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/error/2022-08-26.log",
+            "hash": "f8dbe7c926cf3124e773e1d2f8397105500b1ce2d30c225a4e64246479a13006"
+        }
+    ],
+    "hashType": "sha256"
+}

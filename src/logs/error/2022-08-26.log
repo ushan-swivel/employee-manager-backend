@@ -1,0 +1,124 @@
+2022-08-26 11:17:18 error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2022-08-26 11:17:18 error: uncaughtException: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at NativeConnection.Connection.openUri (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/connection.js:824:32)
+    at /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:380:10
+    at /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:1225:10)
+    at Mongoose.connect (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:379:20)
+    at connectToDatabase (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/databases/index.ts:15:10)
+    at new App (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/app.ts:26:22)
+    at Object.<anonymous> (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts:10:13)
+2022-08-26 11:35:59 error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+2022-08-26 11:35:59 error: uncaughtException: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at NativeConnection.Connection.openUri (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/connection.js:824:32)
+    at /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:380:10
+    at /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:1225:10)
+    at Mongoose.connect (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/mongoose/lib/index.js:379:20)
+    at connectToDatabase (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/databases/index.ts:15:10)
+    at new App (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/app.ts:26:22)
+    at Object.<anonymous> (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts:10:13)
+2022-08-26 21:07:29 error: uncaughtException: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+Error: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module.m._compile (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2022-08-26 21:08:28 error: uncaughtException: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+Error: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module.m._compile (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2022-08-26 21:08:49 error: uncaughtException: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+Error: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module.m._compile (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2022-08-26 21:09:14 error: uncaughtException: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+Error: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module.m._compile (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2022-08-26 21:10:01 error: uncaughtException: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+Error: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module.m._compile (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2022-08-26 21:10:54 error: uncaughtException: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+Error: Cannot find module '@routes/auth.route'
+Require stack:
+- /Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module.m._compile (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2022-08-26 21:12:09 error: [GET] /api/employee/630716c7eb0a65ec4d95486d >> StatusCode:: 409, Message:: Employee doesn't exist
+2022-08-26 21:12:16 error: [PUT] /api/employee/630716c7eb0a65ec4d95486d >> StatusCode:: 400, Message:: property id should not exist

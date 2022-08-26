@@ -1,0 +1,17 @@
+2022-08-25 11:46:27 error: [POST] /api/employee >> StatusCode:: 409, Message:: This email Ewald.Kunde@gmail.com already exists
+2022-08-25 11:55:31 error: [POST] /api/employee >> StatusCode:: 500, Message:: Employee validation failed: photo: Path `photo` is required.
+2022-08-25 11:57:39 error: [POST] /api/employee >> StatusCode:: 500, Message:: Employee validation failed: photo: Path `photo` is required.
+2022-08-25 11:58:03 error: [POST] /api/employee >> StatusCode:: 500, Message:: E11000 duplicate key error collection: test.employees index: id_1 dup key: { id: null }
+2022-08-25 11:59:36 error: [POST] /api/employee >> StatusCode:: 409, Message:: This email ushansankalpafernando@gmail.com already exists
+2022-08-25 12:44:52 error: [POST] /api/employee >> StatusCode:: 409, Message:: This email ushansankalpafernando@gmail.com already exists
+2022-08-25 12:46:25 error: [POST] /api/employee >> StatusCode:: 409, Message:: This email ushansankalpafernando@gmail.com already exists
+2022-08-25 16:12:56 error: [PUT] /api/employee/630716c7eb0a65ec4d95486d >> StatusCode:: 400, Message:: property id should not exist
+2022-08-25 16:13:19 error: [PUT] /api/employee/630716c7eb0a65ec4d95486d >> StatusCode:: 409, Message:: This email Ewald.Kunde@gmail.com already exists
+2022-08-25 19:24:01 error: [PUT] /api/employee/undefined >> StatusCode:: 409, Message:: This email test@hotmail.com already exists
+2022-08-25 19:25:01 error: [PUT] /api/employee/undefined >> StatusCode:: 409, Message:: This email test@hotmail.com already exists
+2022-08-25 19:25:48 error: [PUT] /api/employee/undefined >> StatusCode:: 409, Message:: This email test@hotmail.com already exists
+2022-08-25 19:25:59 error: [PUT] /api/employee/63077e399baf29486316356c >> StatusCode:: 400, Message:: property id should not exist
+2022-08-25 19:27:26 error: [PUT] /api/employee/630716c7eb0a65ec4d95486d >> StatusCode:: 400, Message:: property id should not exist
+2022-08-25 19:31:13 error: [PUT] /api/employee/63077e399baf29486316356c >> StatusCode:: 400, Message:: property id should not exist, property empData should not exist
+2022-08-25 19:31:43 error: [PUT] /api/employee/63077e399baf29486316356c >> StatusCode:: 400, Message:: property id should not exist, property empData should not exist
+2022-08-25 19:33:26 error: [PUT] /api/employee/63077e399baf29486316356c >> StatusCode:: 400, Message:: property id should not exist, property empData should not exist
