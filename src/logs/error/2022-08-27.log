@@ -1,0 +1,25 @@
+2022-08-27 14:26:34 error: [POST] /api/employee >> StatusCode:: 400, Message:: property id should not exist
+2022-08-27 18:37:58 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-27 18:39:01 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-27 18:43:04 error: [POST] /api/employee >> StatusCode:: 400, Message:: number must be a phone number
+2022-08-27 18:49:17 error: [PUT] /api/employee/60706478aad6c9ad19a31c84 >> StatusCode:: 409, Message:: This email dsdsds.Stehr@yahoo.com already exists
+2022-08-27 18:51:05 error: [PUT] /api/employee/60706478aad6c9ad19a31c84 >> StatusCode:: 409, Message:: This email dsdsds.Stehr@yahoo.com already exists
+2022-08-27 18:52:02 error: [PUT] /api/employee/60706478aad6c9ad19a31c84 >> StatusCode:: 409, Message:: This email dsdsds.Stehr@yahoo.com already exists
+2022-08-27 18:52:32 error: [PUT] /api/employee/60706478aad6c9ad19a31c84 >> StatusCode:: 409, Message:: This email dsdsds.Stehr@yahoo.com already exists
+2022-08-27 18:57:20 error: [PUT] /api/employee/60706478aad6c9ad19a31c84 >> StatusCode:: 409, Message:: This email dsdsds.Stehr@yahoo.com already exists
+2022-08-27 18:57:48 error: [PUT] /api/employee/60706478aad6c9ad19a31c84 >> StatusCode:: 409, Message:: This email dsdsds.Stehr@yahoo.com already exists
+2022-08-27 18:58:19 error: [PUT] /api/employee/60706478aad6c9ad19a31c84 >> StatusCode:: 409, Message:: This email dsdsds.Stehr@yahoo.com already exists
+2022-08-27 18:58:45 error: [PUT] /api/employee/60706478aad6c9ad19a31c84 >> StatusCode:: 409, Message:: This email dsdsds.Stehr@yahoo.com already exists
+2022-08-27 19:01:09 error: [PUT] /api/employee/60706478aad6c9ad19a31c84 >> StatusCode:: 409, Message:: This email dsdsds.Stehr@yahoo.com already exists
+2022-08-27 19:01:16 error: uncaughtException: listen EADDRINUSE: address already in use :::5001
+Error: listen EADDRINUSE: address already in use :::5001
+    at Server.setupListenHandle [as _listen2] (node:net:1380:16)
+    at listenInCluster (node:net:1428:12)
+    at Server.listen (node:net:1516:7)
+    at Function.listen (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/express/lib/application.js:635:24)
+    at App.listen (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/app.ts:34:14)
+    at Object.<anonymous> (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/server.ts:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module.m._compile (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/node_modules/ts-node/src/index.ts:1621:12)

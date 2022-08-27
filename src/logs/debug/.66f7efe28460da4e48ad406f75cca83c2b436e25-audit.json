@@ -34,6 +34,11 @@
             "date": 1661452573926,
             "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/debug/2022-08-26.log",
             "hash": "669e5ae820feff0e75bead7c04898c219182f7d4959401d25938189364afb78d"
+        },
+        {
+            "date": 1661588061605,
+            "name": "/Users/ushanfernando/Desktop/Workspace/CodingChallenges/employee-manager-api/src/logs/debug/2022-08-27.log",
+            "hash": "49df586ade90fbbdc432055fbb395225f93aee0ac6f4cebdd2845edcc2c2fe3c"
         }
     ],
     "hashType": "sha256"

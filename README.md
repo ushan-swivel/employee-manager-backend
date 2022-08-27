@@ -27,4 +27,8 @@
 | Swagger                            | For api documentation             |
 | jest                               | For testing                       |
 
+###  Running Api Tests
 
+##### To Run Api Tests use:
+
+```yarn test```

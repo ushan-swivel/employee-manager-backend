@@ -281,3 +281,4 @@
 2022-08-26 22:27:59 info: MongoDb Connected
 2022-08-26 22:28:09 info: [0mGET /api/employee [36m304[0m 154.489 ms - -[0m
 2022-08-26 22:30:04 info: [0mPOST /api/employee [32m201[0m 351.106 ms - 233[0m
+2022-08-26 22:50:57 info: MongoDb Connected

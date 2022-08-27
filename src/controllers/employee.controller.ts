@@ -1,5 +1,4 @@
 import { NextFunction, Request, Response } from 'express';
-import { CreateUserDto } from '@dtos/users.dto';
 import employeeService from '@/services/employee.service';
 import { Employee } from '@/interfaces/employee.interface';
 import { CreateEmployeeDto } from '@/dtos/employee.dto';
